@@ -10,7 +10,7 @@
 		"url": "git@github.com:thethemefoundry/make.git"
 	},
 	"dependencies": {
-		"grunt": "~0.4.1",
+		"grunt": "~1.6.1",
         "load-grunt-tasks": "~0.2.0",
         "grunt-sass": "~0.17.0",
         "grunt-wp-css": "~0.1.0",
