@@ -31,6 +31,6 @@
         "grunt-wp-i18n": "~0.4.0",
 		"grunt-shell": "~0.6.1",
         "grunt-bump": "~0.0.11",
-        "semver": "~2.2.1"
+        "semver": "~7.7.2"
 	}
 }
